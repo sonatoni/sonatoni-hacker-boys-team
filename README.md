@@ -2,4 +2,4 @@
 
 cd sonatoni-hacker-boys-team
 
-python2 hacker.py
+python2 Hacker.py
